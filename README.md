@@ -1,16 +1,22 @@
-## Hi there 👋
+# Pierre Fitness Lab
 
-<!--
-**pierrefitnesslab/pierrefitnesslab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains a simple static website for Pierre Fitness Lab, designed to showcase personal training services and make it easy to get in touch.
 
-Here are some ideas to get you started:
+## What’s included
+- A polished landing page for your business
+- Sections for services, about, and contact
+- GitHub Pages deployment setup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Preview locally
+Open [index.html](index.html) in your browser, or serve the folder with a simple local server.
+
+## Deploy to GitHub Pages
+The site is configured to deploy automatically from the main branch using GitHub Actions.
+
+1. Go to your repository on GitHub.
+2. Open Settings → Pages.
+3. Select GitHub Actions as the source.
+4. Push changes to the main branch to publish updates.
+
+## Customize the content
+Edit [index.html](index.html) and [styles.css](styles.css) to update your branding, copy, and styling.
